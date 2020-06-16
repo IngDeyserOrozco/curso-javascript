@@ -1,0 +1,3 @@
+/**
+ * Herencia via Prototype
+ */
